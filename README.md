@@ -22,5 +22,9 @@
 
 ### 项目运行
 ```
+$ npm i
 $ node app.js
 ```
+
+### 配套前端项目
+[https://github.com/gaoshengyun/vue_shop](https://github.com/gaoshengyun/vue_shop)
